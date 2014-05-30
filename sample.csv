@@ -1,0 +1,469 @@
+Bank,Ch,MHz,Step,Mode,Skip,Select,Atten,Volume,Label
+0,1,460.525,12.5,FM,,select,,vol2,"KNCOM P1","Kendall County Sheriff 1"
+0,2,460.575,12.5,FM,,select,,vol2,"KNCOM F1","Kendall County Fire 1"
+0,3,460.375,12.5,FM,,select,20,vol2,"KNCOM P2","Kendall County Sheriff 2"
+0,4,462.975,12.5,FM,,select,,vol2,"KNCOM F2","Kendall County Fire 2"
+0,5,155.475,5,FM,,select,,vol2,"ISPERN",
+0,6,154.71,10,FM,,select,,,"ExecProt","IL Excecutive Protection"
+0,7,155.46,5,FM,,select,,,"ISP HF4",
+0,8,145.17,5,FM,,,,,"IHARC","IH repeater Naperville"
+0,9,155.58,5,FM,,select,10,vol2,"Oswego","Oswego Police local comms"
+0,10,146.52,5,FM,,,,,"SIMPLEX","2 meter simplex"
+0,11,148.6,5,FM,,select,,,"ARMY JL","Army Elwood firing range"
+0,12,154.95,5,FM,,select,,vol2,"CPAT","CPAT police surveillance"
+0,13,145.77,10,FM,skip,select,,,"CARMA","CARMA 2m simplex frequency"
+0,14,419.65,12.5,FM,skip,,,,"USPS INS",
+0,15,52.525,10,FM,skip,,,,"6M smplx",
+0,16,165.2875,12.5,FM,,select,,,"BATF",
+0,17,42.5,10,FM,,select,,,"ISP mob","ISP mobiles"
+0,18,154.695,5,FM,,select,,,"ISP HF2",
+0,19,151.625,5,FMN,skip,select,,,"itinernt","Itinerant"
+0,20,154.265,5,FM,,select,,,"NIFERN",
+0,21,867.275,12.5,FM,skip,,,,"MG PD1","Montgomery Police dispatch"
+0,22,154.04,5,FM,,select,,,"MG PD2","Montgomery Police discrete/Public Works"
+0,23,123.05,25,AM,,select,,,"ISP HELO","ISP helicopters"
+0,24,135.2,25,AM,,select,,,"Helo","helicopters"
+0,25,123.5,25,AM,,select,,,"AUR APT","Aurora Airport"
+0,26,169.5025,2.5,FM,skip,select,,,"wirl mic",
+0,27,170.2251,0.1,FM,skip,,,,"wirl mic",
+0,28,464.5,12.5,FM,skip,select,,,,
+0,29,464.55,12.5,FM,skip,select,,,,
+0,30,155.025,5,FM,,select,,,"ESMARN",
+0,31,154.965,5,FM,,select,,,"ESDA",
+0,32,45.44,10,FM,,select,,,"ESDA IL",
+0,33,463.95,12.5,FM,skip,,,,"FV Mall1","Fox Valley Mall security"
+0,34,463.40,12.5,FM,skip,,,,"FV Mall2","Fox Valley Mall maintenence"
+0,35,452.4,12.5,FM,skip,,,,"TAXI AUR","Aurora Taxi"
+0,36,414.75,12.5,FM,skip,,,,"Postal","US Postal Service"
+0,37,469.0375,12.5,FM,skip,,,,"Culvers","Culvers drive up window"
+0,38,410.35,12.5,FM,skip,select,,,"FERMILAB","Fermilab Batavia"
+0,39,411.55,12.5,FM,skip,,,,"POST OFC","US Postal Service"
+1,0,866.0375,12.5,FM,,,,,"Aurora T","Aurora city trunked system"
+1,1,866.0625,12.5,FM,,,,,"Aurora T","Aurora city trunked system"
+1,2,867.25,12.5,FM,,,,,"Aurora T","Aurora city trunked system"
+1,3,867.625,12.5,FM,,,,,"Aurora T","Aurora city trunked system"
+1,4,868.175,12.5,FM,,,,,"Aurora T","Aurora city trunked system"
+1,5,868.2,12.5,FM,skip,,,,"Aurora T","Aurora city trunked system"
+1,6,868.5375,12.5,FM,,,,,"Aurora T","Aurora city trunked system"
+2,0,165.2875,12.5,FM,,select,,,"BATF",
+2,1,173.8875,12.5,FM,,select,,,"BATF",
+2,2,165.9125,12.5,FM,,select,,,"BATF",
+2,3,165.2375,12.5,FM,,,,,"CUSTOMS",
+2,4,165.2375,12.5,FM,,,,,"CUSTOMS","US Customs"
+2,5,418.625,12.5,FM,,,,,"DEA","DEA"
+2,6,418.9,12.5,FM,,,,,"DEA","DEA"
+2,7,418.75,12.5,FM,,,,,"DEA","DEA"
+2,8,418.675,12.5,FM,,,,,"DEA","DEA"
+2,9,418.825,12.5,FM,,,,,"DEA","DEA"
+2,10,418.95,12.5,FM,,,,,"DEA","DEA"
+2,11,418.975,12.5,FM,,,,,"DEA","DEA"
+2,12,418.175,12.5,FM,,,,,"DEA","DEA"
+2,13,419.225,12.5,FM,,,,,"DEA","DEA"
+2,14,419.25,12.5,FM,,,,,"DEA","DEA"
+2,15,418.225,12.5,FM,,,,,"DEA","DEA"
+2,16,418.2,12.5,FM,,,,,"DEA","DEA"
+2,17,170.625,12.5,FM,,,,,"FBI",
+2,18,170.5,12.5,FM,,,,,"FBI","FBI"
+2,19,138.575,5.0,FM,,,,,"FEMA","FEMA"
+2,20,410.35,12.5,FM,,select,,,"FERMI",
+2,21,163.625,12.5,FM,,,,,"INS","US Immigration and Naturalization"
+2,22,163.675,12.5,FM,,,,,"INS","US Immigration and Naturalization"
+2,23,163.725,12.5,FM,,,,,"INS","US Immigration and Naturalization"
+2,24,163.775,12.5,FM,,,,,"INS","US Immigration and Naturalization"
+2,25,165.875,12.5,FM,,,,,"INS","US Immigration and Naturalization"
+2,26,163.65,12.5,FM,,,,,"INS","US Immigration and Naturalization"
+2,27,163.75,12.5,FM,,,,,"INS","US Immigration and Naturalization"
+2,28,162.9,12.5,FM,,,,,"INS","US Immigration and Naturalization"
+2,29,163.7,12.5,FM,,,,,"INS","US Immigration and Naturalization"
+2,30,162.85,12.5,FM,,,,,"INS","US Immigration and Naturalization"
+2,31,418.175,12.5,FM,,,,,"IRS","US Internal Revenue"
+2,32,166,12.5,FM,,,,,"IRS","US Internal Revenue"
+2,33,167,12.5,FM,,,,,"IRS","US Internal Revenue"
+2,34,418.225,12.5,FM,,,,,"IRS CID","US Internal Revenue"
+2,35,166.4625,12.5,FM,,,,,"T-COM","US Treasury common"
+2,36,419.65,12.5,FM,,,,,"USPS INS",
+3,0,857.2625,12.5,FM,skip,,,,"NAPV TR","Naperville city trunked system"
+3,1,866.2375,12.5,FM,,,,,"NAPV TR","Naperville city trunked system"
+3,2,866.625,12.5,FM,,,,,"NAPV TR","Naperville city trunked system"
+3,3,867.0375,12.5,FM,,,,,"NAPV TR","Naperville city trunked system"
+3,4,867.575,12.5,FM,skip,,,,"NAPV TR","Naperville city trunked system"
+3,5,867.825,12.5,FM,,,,,"NAPV TR","Naperville city trunked system"
+3,6,868.15,12.5,FM,,,,,"NAPV TR","Naperville city trunked system"
+4,0,220.1659,0.01,USB,,,,,,
+4,1,220.1608,0.01,USB,,,,,,
+4,2,220.016,0.01,USB,,,,,,
+4,3,220.316,0.01,USB,,,,,,
+4,4,220.466,0.01,USB,,,,,,
+4,5,220.616,0.01,USB,,,,,,
+4,6,220.051,0.01,USB,,,,,,
+4,7,220.201,0.01,USB,,,,,,
+4,8,220.351,0.01,USB,,,,,,
+4,9,220.501,0.01,USB,,,,,,
+4,10,220.651,0.01,USB,,,,,,
+4,11,220.0108,0.01,USB,,,,,,
+4,12,220.0425,0.01,USB,,,,,,
+4,13,220.0457,0.01,USB,,,,,,
+4,14,220.1607,0.01,USB,,,,,,
+4,15,220.191,0.01,USB,,,,,,
+4,16,220.196,0.01,USB,,,,,,
+4,17,220.311,0.01,USB,,,,,,
+4,18,220.341,0.01,USB,,,,,,
+4,19,220.346,0.01,USB,,,,,,
+4,20,220.461,0.01,USB,,,,,,
+4,21,220.491,0.01,USB,,,,,,
+4,22,220.496,0.01,USB,,,,,,
+4,23,220.611,0.01,USB,,,,,,
+4,24,220.641,0.01,USB,,,,,,
+4,25,220.646,0.01,USB,,,,,,
+5,0,451.9250,12.5,FM,,,,,"Copley H","Copley Hospital"
+5,1,452.7500,12.5,FM,,,,,"Copley H","Copley Hospital"
+5,2,456.9250,12.5,FM,,,,,"Copley H","Copley Hospital"
+5,3,457.7500,12.5,FM,,,,,"Copley H","Copley Hospital"
+5,4,457.8000,12.5,FM,,,,,"Copley H","Copley Hospital"
+5,5,461.2750,12.5,FM,,,,,"Copley H","Copley Hospital"
+5,6,462.0000,12.5,FM,,,,,"Copley H","Copley Hospital security"
+5,7,462.2000,12.5,FM,,,,,"Copley H","Copley Hospital"
+5,8,464.4250,12.5,FM,,,,,"Copley H","Copley Hospital"
+5,9,466.2750,12.5,FM,,,,,"Copley H","Copley Hospital"
+5,10,467.0000,12.5,FM,,,,,"Copley H","Copley Hospital"
+5,11,467.2000,12.5,FM,,,,,"Copley H","Copley Hospital"
+5,12,469.4250,12.5,FM,,,,,"Copley H","Copley Hospital"
+6,0,1.985,0.05,AM,,,,,"ham AM",
+6,1,3.87,0.05,AM,,,,,"ham AM",
+6,2,3.875,0.05,AM,,,,,"ham AM",
+6,3,3.88,0.05,AM,,,,,"ham AM",
+6,4,3.885,0.05,AM,,,,,"ham AM",
+6,5,3.865,0.05,LSB,,,,,"TRADERS",
+6,6,7.24,0.01,LSB,,,,,"SWL NET",
+6,7,7.28,0.05,LSB,,,,,"HALLICRA",
+6,8,7.29,0.05,AM,,,,,"ham AM",
+6,9,7.295,0.05,AM,,,,,"ham AM",
+6,10,14.286,0.05,AM,,,,,"ham AM",
+6,11,21.425,0.05,AM,,,,,"ham AM",
+6,12,29,0.05,AM,,,,,"ham AM",
+6,13,29.1,0.05,AM,,,,,"ham AM",
+6,14,29.5,0.1,FM,,,,,"10M FM",
+6,15,29.6,0.1,FM,,,,,"10M FM",
+6,16,52.525,0.1,FM,,,,,"6M SMPLX",
+6,17,14.267,0.01,USB,,,,,"TenTec N",
+7,1,936.175,12.5,FM,,,,,"Osw LTR","Oswego LTR trunked system"
+7,2,936.675,12.5,FM,,,,,"Osw LTR","Oswego LTR trunked system"
+7,3,937.675,12.5,FM,,,,,"Osw LTR","Oswego LTR trunked system"
+7,4,938.175,12.5,FM,,,,,"Osw LTR","Oswego LTR trunked system"
+8,0,154.650,5,FM,,,,,"DCI C2C","DCI car to car"
+8,1,154.950,5,FM,,,,,"DCI C2C","DCI car to car"
+8,2,156.000,5,FM,,,,,"DCI C2C","DCI car to car"
+8,3,154.905,5,FM,,,,,"DCI Disp","DCI dispatch"
+8,4,154.86,5,FM,,select,,,"DE KALB","De Kalb County Sheriff"
+8,5,852.6625,12.5,FM,skip,,,,"DUPAGE 1","Dupage County Sheriff 1"
+8,6,854.9625,12.5,FM,skip,,,,"DUPAGE 2","Dupage County Sheriff 2"
+8,7,856.2125,12.5,FM,skip,,,,"DUPAGE 3","Dupage County Sheriff 3"
+8,8,860.2375,12.5,FM,skip,,,,"DUPAGE 4","Dupage County Sheriff 4"
+8,9,155.685,12.5,FM,,,10,,"GRUNDY","Grundy County Sheriff"
+8,10,122.975,5,AM,,,,,"ISP Air","ISP aircraft"
+8,11,154.695,5,FM,,,,,"ISP HF2",
+8,12,155.46,5,FM,,,,,"ISP HF4",
+8,13,155.475,5,FM,,select,,,"ISPERN",
+8,14,159.15,5,FM,,,,,"KANE","Kane County Sheriff 1"
+8,15,460.375,12.5,FM,,,,,"KENCM P2","Kendall County Sheriff 2"
+8,16,460.525,12.5,FM,,,,,"KENDL P1","Kendall County Sheriff 1"
+8,17,155.7,5,FM,,select,,,"LA SALLE","La Salle County Sheriff"
+8,18,155.655,12.5,FM,,,,,"LAKE","Lake County Sheriff"
+8,19,155.37,5,FM,,,,,"Pt to Pt","Police point-to-point"
+9,0,856.4375,12.5,FM,,,,,"JOLT TR","Joliet city trunked system"
+9,1,857.4375,12.5,FM,,,,,"JOLT TR","Joliet city trunked system"
+9,2,866.1125,12.5,FM,skip,,,,"JOLT TR","Joliet city trunked system"
+9,3,867.7875,12.5,FM,,,,,"JOLT TR","Joliet city trunked system"
+9,4,868.275,12.5,FM,,,,,"JOLT TR","Joliet city trunked system"
+9,5,868.7,12.5,FM,,,,,"JOLT TR","Joliet city trunked system"
+10,0,169.345,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,1,169.445,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,2,169.505,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,3,169.545,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,4,170.245,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,5,170.305,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,6,170.345,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,7,170.445,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,8,171.045,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,9,171.105,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,10,171.845,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,11,171.905,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,12,173.225,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,13,173.275,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,14,173.325,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,15,173.375,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,16,175.4,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,17,176.425,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,18,177.65,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,19,178.225,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,20,179.2,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,21,181.4,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,22,181.85,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,23,182.55,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,24,184.025,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,25,185.125,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,26,187.8,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,27,188.2,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,28,189.325,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,29,190.075,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,30,190.6,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,31,191.3,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,32,192.325,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,33,193.825,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,34,194.4,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,35,195.425,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,36,195.972,5,FM,,,,,"Wrls Mic","Wireless microphone"
+10,37,196.8,5,FM,,,,,"Wrls Mic","Wireless microphone"
+11,0,866.0125,12.5,FM,,,,,"ISP TR","ISP trunked system"
+11,1,866.4125,12.5,FM,,,,,"ISP TR","ISP trunked system"
+11,2,866.4375,12.5,FM,,,,,"ISP TR","ISP trunked system"
+11,3,866.4625,12.5,FM,,,,,"ISP TR","ISP trunked system"
+11,4,866.5125,12.5,FM,,,,,"ISP TR","ISP trunked system"
+11,5,866.8875,12.5,FM,,,,,"ISP TR","ISP trunked system"
+11,6,866.9375,12.5,FM,,,,,"ISP TR","ISP trunked system"
+11,7,866.9625,12.5,FM,,,,,"ISP TR","ISP trunked system"
+11,8,867.0125,12.5,FM,,,,,"ISP TR","ISP trunked system"
+11,9,867.3875,12.5,FM,,,,,"ISP TR","ISP trunked system"
+11,10,867.4125,12.5,FM,,,,,"ISP TR","ISP trunked system"
+11,11,867.4625,12.5,FM,,,,,"ISP TR","ISP trunked system"
+11,12,867.5125,12.5,FM,,,,,"ISP TR","ISP trunked system"
+11,13,867.8875,12.5,FM,,,,,"ISP TR","ISP trunked system"
+11,14,867.9125,12.5,FM,,,,,"ISP TR","ISP trunked system"
+11,15,867.9375,12.5,FM,,,,,"ISP TR","ISP trunked system"
+11,16,868.0125,12.5,FM,,,,,"ISP TR","ISP trunked system"
+11,17,868.3875,12.5,FM,,,,,"ISP TR","ISP trunked system"
+11,18,868.4125,12.5,FM,,,,,"ISP TR","ISP trunked system"
+11,19,868.4375,12.5,FM,,,,,"ISP TR","ISP trunked system"
+11,20,868.4625,12.5,FM,,,,,"ISP TR","ISP trunked system"
+11,21,868.8875,12.5,FM,,,,,"ISP TR","ISP trunked system"
+11,22,868.9125,12.5,FM,,,,,"ISP TR","ISP trunked system"
+11,23,868.9375,12.5,FM,,,,,"ISP TR","ISP trunked system"
+11,24,868.9625,12.5,FM,,,,,"ISP TR","ISP trunked system"
+12,0,936.4,12.5,FM,,,,,"COMED TR","Commonwealth Edison trunked system"
+12,1,936.65,12.5,FM,,,,,"COMED TR","Commonwealth Edison trunked system"
+12,2,937.4875,12.5,FM,,,,,"COMED TR","Commonwealth Edison trunked system"
+12,3,937.6625,12.5,FM,,,,,"COMED TR","Commonwealth Edison trunked system"
+12,4,939.6875,12.5,FM,,,,,"COMED TR","Commonwealth Edison trunked system"
+13,0,242.4,50,AM,,,,,"Mil Air",
+13,1,234.56,10,AM,,,,,"Mil Air",
+13,2,246.8,50,AM,,,,,"Mil Air",
+13,3,299.7,50,AM,,,,,"Mil Air",
+13,4,311,50,AM,,,,,"Mil Air",
+13,5,47,10,FM,,,,,"Mil Air",
+13,6,303,100,AM,,,,,"Mil Air",
+13,7,384.9,100,AM,,,,,"Mil Air",
+13,8,257.8,100,AM,,,,,"Mil Air",
+13,9,267.8,100,AM,,,,,"Mil Air",
+13,10,260.53,10,FM,,,,,"Mil Air",
+13,11,260.58,10,FM,,,,,"Mil Air",
+13,12,351.2,100,AM,,,,,"Mil Air",
+14,0,462.5625,12.5,FMN,,,,,"Family R","Family Radio Service 1"
+14,1,462.5875,12.5,FMN,,,,,"Family R","Family Radio Service 2"
+14,2,462.6125,12.5,FMN,,,,,"Family R","Family Radio Service 3"
+14,3,462.6375,12.5,FMN,,,,,"Family R","Family Radio Service 4"
+14,4,462.6625,12.5,FMN,,,,,"Family R","Family Radio Service 5"
+14,5,462.6875,12.5,FMN,,,,,"Family R","Family Radio Service 6"
+14,6,462.7125,12.5,FMN,,,,,"Family R","Family Radio Service 7"
+14,7,467.5625,12.5,FMN,,,,,"Family R","Family Radio Service 8"
+14,8,467.5875,12.5,FMN,,,,,"Family R","Family Radio Service 9"
+14,9,467.6125,12.5,FMN,,,,,"Family R","Family Radio Service 10"
+14,10,467.6375,12.5,FMN,,,,,"Family R","Family Radio Service 11"
+14,11,467.6625,12.5,FMN,,,,,"Family R","Family Radio Service 12"
+14,12,467.6875,12.5,FMN,,,,,"Family R","Family Radio Service 13"
+14,13,467.7125,12.5,FMN,,,,,"Family R","Family Radio Service 14"
+14,14,154.57,5,FM,,,,,"MURS 2w",
+14,15,154.6,5,FM,,,,,"MURS 2w",
+14,16,464.5,12.5,FM,,,,,,
+14,17,464.55,12.5,FM,,,,,,
+14,18,463.95,12.5,FM,skip,,,,"FV Mall2","Fox Valley Mall security"
+14,19,463.400,12.5,FM,,,,,"FV Mallm","Fox Valley Mall maintenence"
+14,20,461.0375,12.5,FM,,select,,,"Target 1","Target store 1/sales droids"
+14,21,462.9125,12.5,FM,,select,,,"Target","Target store"
+14,22,469.4875,12.5,FM,,select,,,"Target","Target store security"
+14,23,466.2875,12.5,FM,,select,,,"Target 2","Target store 2/back room"
+14,24,151.82,5,FM,,select,,,"MURS 2w",
+14,25,151.88,5,FM,,select,,,"MURS 2w",
+14,26,151.94,5,FM,,select,,,"MURS 2w",
+14,27,462.525,12.5,FM,,select,,,"Portil1","Portillos 1"
+14,28,469.0125,12.5,FM,skip,,,,"Portil2","Portillos 2 intercom"
+14,29,464.0125,12.5,FM,,select,,,"Portil3","Portillos 3"
+14,30,466.2875,12.5,FM,,select,,,"Portil4","Portillos 4"
+15,0,5.55,0.01,USB,,,,,,
+15,1,5.598,0.05,USB,,,,,,
+15,2,5.692,0.01,USB,,,,,"USCG SOS","US Coast Guard rescue"
+15,3,5.696,0.01,USB,,,,,"USCG SOS","US Coast Guard rescue"
+15,4,6.535,0.01,USB,,,,,,
+15,5,6.586,0.01,USB,,,,,,
+15,6,6.628,0.01,USB,,,,,,
+15,7,6.761,0.01,USB,,,,,,
+15,8,6.883,0.01,USB,,,,,,
+15,9,8.993,0.01,USB,,,,,,
+15,10,11.175,0.01,USB,,,,,,
+15,11,11.176,0.01,USB,,,,,,
+15,12,11.243,0.01,USB,,,,,,
+15,13,11.246,0.01,USB,,,,,,
+15,14,11.267,0.01,USB,,,,,,
+15,15,11.309,0.01,USB,,,,,,
+15,16,11.615,0.01,USB,,,,,,
+15,17,13.2,0.01,USB,,,,,"USAF",
+15,18,14.686,0.01,USB,,,,,"DEA",
+15,19,15.016,0.01,USB,,,,,,
+16,0,43.72,10,FM,,,,,"USAF",
+17,0,4.3875,0.05,USB,,,,,,
+17,1,4.721,0.05,USB,,,,,,
+17,2,4.724,0.05,USB,,,,,"USAF",
+17,3,5.692,0.01,USB,,,,,"USCG SOS","US Coast Guard"
+17,4,5.696,0.05,USB,,,,,"USCG SOS","US Coast Guard rescue"
+17,5,6.501,0.05,USB,,,,,"USCG BUL","US Coast Guard"
+17,6,6.628,0.05,USB,,,,,,
+17,7,6.739,0.05,USB,,,,,"USAF",
+17,8,6.75,0.05,USB,,,,,"USAF",
+17,9,8.968,0.05,USB,,,,,"USAF",
+17,10,8.992,0.05,USB,,,,,"USAF",
+17,11,11.158,0.05,USB,,,,,,
+17,12,11.175,0.05,USB,,,,,"USAF",
+17,13,11.176,0.01,USB,,,,,"USAF",
+17,14,11.229,0.05,USB,,,,,"USAF",
+17,15,13.2,0.05,USB,,,,,"USAF",
+17,16,15.016,0.05,USB,,,,,"USAF",
+17,17,17.967,0.05,USB,,,,,"USAF",
+18,2,59.75,10,FMW,skip,,,,,
+18,3,65.75,10,FMW,skip,,,,,
+18,4,71.75,10,FMW,skip,,,,,
+18,5,81.75,10,FMW,skip,,,,,
+18,6,87.75,10,FMW,skip,,,,,
+18,7,179.75,10,FMW,skip,,,,,
+18,8,185.75,10,FMW,skip,,,,,
+18,9,191.75,10,FMW,skip,,,,,
+18,10,197.75,10,FMW,skip,,,,,
+18,11,203.75,10,FMW,skip,,,,,
+18,12,209.75,10,FMW,skip,,,,,
+18,13,215.75,10,FMW,skip,,,,,
+18,14,475.75,10,FMW,skip,,,,,
+18,15,418.75,10,FMW,skip,,,,,
+18,16,487.75,10,FMW,skip,,,,,
+18,17,493.75,10,FMW,skip,,,,,
+18,18,499.75,10,FMW,skip,,,,,
+18,19,505.75,10,FMW,skip,,,,,
+18,20,511.75,10,FMW,skip,,,,,
+18,21,517.75,10,FMW,skip,,,,,
+18,22,523.75,10,FMW,skip,,,,,
+18,23,529.75,10,FMW,skip,,,,,
+18,24,535.75,10,FMW,skip,,,,,
+18,25,541.75,10,FMW,skip,,,,,
+18,26,547.75,10,FMW,skip,,,,,
+18,27,553.75,10,FMW,skip,,,,,
+18,28,559.75,10,FMW,skip,,,,,
+18,29,565.75,10,FMW,skip,,,,,
+18,30,571.75,10,FMW,skip,,,,,
+18,31,577.75,10,FMW,skip,,,,,
+18,32,583.75,10,FMW,skip,,,,,
+18,33,589.75,10,FMW,skip,,,,,
+18,34,595.75,10,FMW,skip,,,,,
+18,35,601.75,10,FMW,skip,,,,,
+18,36,607.75,10,FMW,skip,,,,,
+18,37,613.75,10,FMW,skip,,,,,
+18,38,619.75,10,FMW,skip,,,,,
+18,39,625.75,10,FMW,skip,,,,,
+18,40,631.75,10,FMW,skip,,,,,
+18,41,637.75,10,FMW,skip,,,,,
+18,42,643.75,10,FMW,skip,,,,,
+18,43,649.75,10,FMW,skip,,,,,
+18,44,655.75,10,FMW,skip,,,,,
+18,45,661.75,10,FMW,skip,,,,,
+18,46,667.75,10,FMW,skip,,,,,
+18,47,673.75,10,FMW,skip,,,,,
+18,48,679.75,10,FMW,skip,,,,,
+18,49,685.75,10,FMW,skip,,,,,
+18,50,691.75,10,FMW,skip,,,,,
+18,51,697.75,10,FMW,skip,,,,,
+18,52,703.75,10,FMW,skip,,,,,
+18,53,709.75,10,FMW,skip,,,,,
+18,54,715.75,10,FMW,skip,,,,,
+18,55,721.75,10,FMW,skip,,,,,
+18,56,727.75,10,FMW,skip,,,,,
+18,57,733.75,10,FMW,skip,,,,,
+18,58,739.75,10,FMW,skip,,,,,
+18,59,745.75,10,FMW,skip,,,,,
+18,60,751.75,10,FMW,skip,,,,,
+18,61,757.75,10,FMW,skip,,,,,
+18,62,763.75,10,FMW,skip,,,,,
+18,63,769.75,10,FMW,skip,,,,,
+18,64,775.75,10,FMW,skip,,,,,
+18,65,781.75,10,FMW,skip,,,,,
+18,66,787.75,10,FMW,skip,,,,,
+19,0,0.58,5,AMW,skip,,,,"WILL Urb","WILL Urbana"
+19,1,0.6,5,AMW,skip,,,,"WMT Ceda","WMT Cedar Rapids IA"
+19,2,0.62,5,AMW,skip,,,,"WTMJ Mil","WTMJ Milwaukee WI"
+19,3,0.65,5,AMW,skip,,,,"WSM Nsh","WSM Nashville TN"
+19,4,0.72,5,AMW,skip,,,,"WGN Chic","WGN Chicago"
+19,5,0.78,5,AMW,skip,,,,"WBBM Chi","WBBM Chicago"
+19,6,0.81,5,AMW,skip,,,,"WGY Sch","WGY Schenectady NY"
+19,7,0.85,5,AMW,skip,,,,"WAIT Cry","WAIT Crystal Lake"
+19,8,0.89,5,AMW,skip,,,,"WLS Chic","WLS Chicago"
+19,9,1.01,5,AMW,skip,,,,"CFRB Tor","CFRB Toronto Canada"
+19,10,1.12,5,AMW,skip,,,,"KMOX St.","KMOX St. Louis MO"
+19,11,1.14,5,AMW,skip,,,,"WRVA Ric","WRVA Richmond"
+19,12,1.15,5,AMW,skip,,,,"CKOC",
+19,13,1.16,5,AMW,skip,,,,"WYLL Chi","WYLL Chicago"
+19,14,1.18,5,AMW,skip,,,,"WHAM Roc","WHAM Rochester NY"
+19,15,1.19,5,AMW,skip,,,,"WOWO Ft.","WOWO Ft. Wayne IN"
+19,16,1.21,5,AMW,skip,,,,"WPHT Phi","WPHT Philadelphia PA"
+19,17,1.22,5,AMW,skip,,,,"WLPO Las","WLPO Lasalle"
+19,18,1.28,5,AMW,skip,,,,"WBIG Aur","WBIG Aurora"
+19,19,1.34,5,AMW,skip,,,,"WJOL Jol","WJOL Joliet"
+19,20,1.36,5,AMW,skip,,,,"WLBKdklb","WLBK Dekalb"
+19,21,1.58,5,AMW,skip,,,,"WKKD Aur","WKKD Aurora"
+20,0,170.625,12.5,FM,,,,,"FBI",
+20,1,410.35,12.5,FM,,select,,,"FERMI",
+20,2,165.2875,12.5,FM,,select,,,"BATF",
+20,3,419.65,12.5,FM,,,,,"USPS INS",
+20,4,165.2375,12.5,FM,,,,,"CUSTOMS",
+20,5,418.625,12.5,FM,,,,,"DEA",
+20,6,418.9,12.5,FM,,,,,"DEA",
+20,7,418.75,12.5,FM,,,,,"DEA",
+21,0,162.4,25,FM,,,,,,
+21,1,162.425,25,FM,,,,,,
+21,2,162.45,25,FM,,,,,,
+21,3,162.475,25,FM,,,,,,
+21,4,162.5,25,FM,,,,,,
+21,5,162.525,25,FM,,,,,,
+21,6,162.55,25,FM,,,,,,
+22,50,147.06,15,FM,skip,,,,,
+22,51,146.76,15,FM,skip,,,,,
+22,52,147.18,12.5,FM,skip,,,,,
+22,53,378,100,AM,skip,,,,,
+22,54,355.7,100,AM,skip,,,,,
+22,55,927.09,5,FM,skip,,,,,
+22,56,927.085,5,FM,skip,,,,,
+22,57,911.97,5,FM,skip,,,,,
+22,58,911.965,5,FM,skip,,,,,
+22,59,927.775,5,FM,skip,,,,,
+22,60,927.08,5,FM,skip,,,,,
+22,61,927.11,5,FM,skip,,,,,
+22,62,927.105,5,FM,skip,,,,,
+22,63,927.1,10,FM,skip,,,,,
+22,64,927.78,10,FM,skip,,,,,
+22,65,333.65,10,AM,,,,,,
+22,66,350,50,AM,skip,,,,,
+22,67,147.06,10,FM,,,,,,
+23,0,128.825,25,FM,,,,,"none",
+23,1,131.975,25,FM,,,,,"none",
+23,2,146.61,15,FM,,,,,"HAM 2MTR",
+23,3,147.39,15,FM,,,,,"HAM 2MTR",
+23,4,460.0125,25,FMN,,,,,"INTERSTL",
+23,5,469.9875,25,FMN,,,,,"INTERSTL",
+23,6,69.0,5,FM,,,,,"*NONAME*",
+23,7,79.0,5,FM,,,,,"*NONAME*",
+23,8,80.0,10,FM,,,,,"*NONAME*",
+23,9,91.0,10,FM,,,,,"*NONAME*",
+23,10,325,100,AM,,,,,"MIL AIR",
+23,11,400,100,AM,,,,,"MIL AIR",
+23,12,128.825,25,AM,,,,,"AIRLINES",
+23,13,131.975,25,AM,,,,,"AIRLINES",
+23,14,406.1,12.5,FM,,,,,"FEDERAL",
+23,15,420,12.5,FM,,,,,"FEDERAL",
+23,16,163,12.5,FM,,,,,"FEDERAL*",
+23,17,166,12.5,FM,,,,,"FEDERAL*",
+23,18,902,5,FM,,,,,"902-928",
+23,19,927,5,FM,,,,,"902-928",
