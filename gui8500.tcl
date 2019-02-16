@@ -313,8 +313,8 @@ proc FirstTimeCheck { Rcfile } \
 			-value {/dev/ttyS3} 
 		radiobutton $fr.s4 -text /dev/ttyS4 -variable port \
 			-value {/dev/ttyS4} 
-		radiobutton $fr.s5 -text /dev/ttyS5 -variable port \
-			-value {/dev/ttyS5} 
+		radiobutton $fr.s5 -text /dev/ttyUSB0 -variable port \
+			-value {/dev/ttyUSB0} 
 
 		pack \
 			$fr.s0 $fr.s1 $fr.s2 \
