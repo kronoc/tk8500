@@ -1,4 +1,4 @@
-tk8500 is software to allow you to control an Icom IC-R8500 radio from a computer, and also perform memory management functions (import/export memorues to a CSV etc.).
+tk8500 is software to allow you to control an Icom IC-R8500 radio from a computer, and also perform memory management functions (import/export memorues to a CSV etc.). Fork/Mirror of the project originally developed by Bob Parnass - see http://parnass.org/tk8500/
 
 tk8500 runs in the X Windows System graphical environment and is independent of your desktop manager (e.g., KDE or Gnome). tk8500 has been tested on a 1400 MHz AMD Athlon® based computer running RedHat® Linux® 7.3 with kernel 2.4.18-4. and Tcl/Tk version 8.3, patchlevel 8.3.3.
 This is experimental software and probably contains defects. It remains under development. When available, newer versions of tk8500 will be made available for download at this web site.
